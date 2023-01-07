@@ -1,6 +1,6 @@
 {
-  "homepage": "https://JENNYWILLIAMS01.github.io/note-keeper/",
-  "name": "note-keeper",
+  "homepage": "https://JENNYWILLIAMS01.github.io/notes-keeper/",
+  "name": "notes-keeper",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
